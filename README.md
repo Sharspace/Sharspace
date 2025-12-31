@@ -15,6 +15,3 @@ I'm an AI-ML engineering student<br>exploring new project ideas<br>looking forwa
 ---
 [![](https://visitcount.itsvg.in/api?id=Sharspace&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
